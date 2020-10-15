@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\owner\source\repos\cprogramming1\cprogramming1\source.c(19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\owner\source\repos\cprogramming1\cprogramming1\source.c(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\owner\source\repos\cprogramming1\cprogramming1\source.c(30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cProgramming1.vcxproj -> C:\Users\Owner\source\repos\cProgramming1\Debug\cProgramming1.exe
